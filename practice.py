@@ -1,3 +1,3 @@
 x = 3
 print(x + "timo")
-print("This line will cause a merge conflict")
+print("This is me fixing the conflict by writing this on GitHub")
