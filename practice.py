@@ -1,3 +1,3 @@
 x = 3
 print(x + "timo")
-print("This line will ALSO cause problems")
+print("This is me fixing the conflict by writing this on GitHub")
